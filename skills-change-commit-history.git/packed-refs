@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+beaf739001fd440b6a00f0e15d88c773ac28b2b3 refs/heads/dependabot/github_actions/actions/checkout-6
+d68f3b657e12e06e030a8dee4fc864b4c2795d13 refs/heads/main
+beaf739001fd440b6a00f0e15d88c773ac28b2b3 refs/pull/1/head
+500bf8eb6eda45e0988329d7f4b3967d4b3677b4 refs/pull/1/merge
